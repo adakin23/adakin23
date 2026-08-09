@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Adam Dakin</h1>
 <h3 align="center">SCADA Engineer | M.S. Business Analytics Candidate, Purdue University</h3>
+
 ## About Me
 
 I earned my B.S. in Mechanical Engineering from Purdue University and am currently pursuing an M.S. in Business Analytics, also at Purdue. Since graduating, I've worked as a Project and Operations Engineer in the chemical industry, and I now work as a SCADA Engineer in upstream oil and gas. I'm broadly interested in engineering, data analytics, economics, and business, and I enjoy projects that combine those areas. I bring a practical, problem-solving mindset shaped by real plant operations experience, along with a growing analytics skill set I'm building through my coursework and personal projects. Outside of work, I'm a movie and sports fan, which inspired one of the side projects featured below.
